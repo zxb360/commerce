@@ -149,3 +149,4 @@ export const PlacesList: React.FC<PlacesListProps> = ({
     </div>
   )
 }
+

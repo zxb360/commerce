@@ -73,3 +73,4 @@ describe('PlaceCard component', () => {
     expect(card).toHaveClass('border-blue-600')
   })
 })
+

@@ -27,3 +27,4 @@ describe('ViewToggleButton component', () => {
     expect(handleToggle).toHaveBeenCalledTimes(1)
   })
 })
+

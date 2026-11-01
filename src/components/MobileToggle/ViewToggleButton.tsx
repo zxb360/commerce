@@ -36,3 +36,4 @@ export const ViewToggleButton: React.FC<ViewToggleButtonProps> = ({
     </div>
   )
 }
+

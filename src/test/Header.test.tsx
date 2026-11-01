@@ -51,3 +51,4 @@ describe('Header component', () => {
     expect(handleSearchChange).toHaveBeenCalledWith('')
   })
 })
+

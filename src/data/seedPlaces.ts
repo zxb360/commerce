@@ -130,3 +130,4 @@ export const SEED_ESTABLISHMENTS: Establishment[] = [
     tags: ['Gelato Tradicional', 'Opções Veganas', 'Cascão Artesanal'],
   },
 ]
+

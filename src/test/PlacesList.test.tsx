@@ -101,3 +101,4 @@ describe('PlacesList component', () => {
     expect(handleClearFilters).toHaveBeenCalledTimes(1)
   })
 })
+

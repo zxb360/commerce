@@ -16,3 +16,4 @@ export interface Establishment {
 }
 
 export type ViewMode = 'list' | 'map'
+
